@@ -26,4 +26,4 @@ Hack Cameras
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.com/paypalme/AngelSecTeam
+* https://www.paypal.me/AngelSecurityTeam
